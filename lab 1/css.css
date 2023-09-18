@@ -8,6 +8,11 @@ body {
   font-style: italic;
 }
 
+.recipient-column {
+  text-align: left;
+  font-style: italic;
+}
+
 h1 {
   font-size: 1.5em;
 }
